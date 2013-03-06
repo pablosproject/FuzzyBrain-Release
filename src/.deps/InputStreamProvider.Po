@@ -1,0 +1,5 @@
+InputStreamProvider.o InputStreamProvider.o:  \
+ input_providers/InputStreamProvider.cpp \
+  input_providers/InputStreamProvider.h
+
+input_providers/InputStreamProvider.h:
