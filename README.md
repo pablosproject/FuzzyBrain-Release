@@ -11,3 +11,7 @@ This is the standalone version of the FuzzyBrain inference engine. To obtain the
 '
 
 If you only do the first two step you can find the executable under the /bin subdir in the project directory.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pablosproject/fuzzybrain-release/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
